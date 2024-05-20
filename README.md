@@ -9,6 +9,10 @@ Steel pipes subjected to temperature variations experience thermal stresses that
 - Train the research group in the study and analysis of thermal fatigue phenomena.
 
 
+## Software Developed
+![Machine Interface](man_machine_in.PNG)
+
+
 
 ## Methodology
 ### Materials and Methods
