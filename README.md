@@ -5,8 +5,10 @@ Steel pipes subjected to temperature variations experience thermal stresses that
 
 ## Objectives
 - Instrument and monitor a thermal fatigue testing machine to study the behavior of test specimens.
-- Develop equipment to simulate and monitor crack growth resulting from simultaneous thermal and mechanical loading.
+- Develop a Man Machine Interface to simulate and monitor crack growth resulting from simultaneous thermal and mechanical loading.
 - Train the research group in the study and analysis of thermal fatigue phenomena.
+
+
 
 ## Methodology
 ### Materials and Methods
