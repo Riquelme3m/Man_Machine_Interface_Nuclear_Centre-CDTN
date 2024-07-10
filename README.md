@@ -11,6 +11,10 @@ Steel pipes subjected to temperature variations experience thermal stresses that
 
 ## Software Developed
 ![Machine Interface](man_machine_in.PNG)
+![Strain Gage](Strain_gage.jpg)
+![Strain Gage](Strain_gage_two.jpg)
+![Voltage Source](Supply_Voltage.jpg).
+![Reharsal](Reharsal.jpg)
 
 
 
